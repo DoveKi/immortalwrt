@@ -112,7 +112,9 @@ apply_nss_config() {
     compex,wpq873 | \
     linksys,mx4200v1 | \
     redmi,ax6 | \
+    redmi,ax6-stock | \
     xiaomi,ax3600 | \
+    xiaomi,ax3600-stock | \
     zte,mf269 | \
     512m*)
       extra_pbuf_core0=3100000  n2h_high_water_core0=30624 n2h_wifi_pool_buf=8192 apply_sysctl
